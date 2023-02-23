@@ -31,7 +31,7 @@ function Project() {
                      <div className="project__meta absolute">
                      <h5 className="project__text"></h5>
                      <h4 className="project__text"></h4>
-                     <a href="#" className="project__btn">View Details</a>
+                     <a href="https://scintillating-fudge-bb4649.netlify.app" className="project__btn">View Details</a>
                      </div>
                  </div>
              </div>
@@ -65,7 +65,7 @@ function Project() {
                      <div className="project__meta absolute">
                      <h5 className="project__text"></h5>
                      <h4 className="project__text"></h4>
-                     <a href="#" className="project__btn">View Details</a>
+                     <a href="https://statuesque-panda-df5261.netlify.app/" className="project__btn">View Details</a>
                      </div>
                  </div>
              </div>
